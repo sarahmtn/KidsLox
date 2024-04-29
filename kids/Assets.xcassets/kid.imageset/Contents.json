@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "pngtree-hugging-clipart-two-cartoon-children-hug-each-other-vector-png-image_6804001.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
